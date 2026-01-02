@@ -47,6 +47,7 @@ footer {
 }
 .card{
   width: 45%;
+  text-align: justify;
 }
 .right{
   float: right;
